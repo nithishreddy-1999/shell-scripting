@@ -1,7 +1,5 @@
 #!/bin/bash
-
 #prompt for numbers 1 2 and operator
-
 read -p "Enter first number: " num1
 read -p "Enter second number: " num2
 read -p "Enter the operator (+,-,*,/): " operator
@@ -25,29 +23,4 @@ case $operator in
 		echo "Invalid Operator!"
 		exit 1
 		;;
-
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-
 esac
